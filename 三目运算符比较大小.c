@@ -9,3 +9,4 @@ int main()
 	printf("%d %d %d",max,med,min);
 	return 0;
 }
+//edit
