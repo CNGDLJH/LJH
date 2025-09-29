@@ -1,0 +1,12 @@
+a=input("")
+b="red"
+c="blue"
+d="green"
+if(a==b):
+    print("SSS")
+elif(a==c):
+    print("FFF")
+elif(a==d):
+    print("MMM")
+else:
+    print("Unknown")
