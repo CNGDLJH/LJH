@@ -4,3 +4,6 @@ git add .    添加所有文件
 git add A.B     添加文件名为A.B的文件
 git commit -m 'A'    其中，A为相应版本的描述信息
 git log   查看历史版本
+git clone + website  将仓库克隆到本地
+git remote add origin + website  在云端创建仓库
+git push -u origin main/master   将本地文件推送到云端
