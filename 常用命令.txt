@@ -1,0 +1,6 @@
+git init   初始化（开始管理当前文件夹）
+git status   检测当前目录下文件状态
+git add .    添加所有文件
+git add A.B     添加文件名为A.B的文件
+git commit -m 'A'    其中，A为相应版本的描述信息
+git log   查看历史版本
